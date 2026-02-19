@@ -18,7 +18,7 @@ export const PROJECTS: Project[] = [
         text: 'Built using React, Redux Toolkit, and Formik, the app handles complex state management for multiple decks without the need for a persistent backend, utilizing browser local storage for persistence.',
       },
       {
-        image: 'https://picsum.photos/seed/flashcard/1200/800',
+        image: 'https://template.canva.com/EAE5saWilmI/1/0/400w-bg9kUSoTyfs.jpg',
         caption: 'Intuitive interface for creating and managing custom flashcard decks.',
       }
     ]
@@ -35,20 +35,8 @@ export const PROJECTS: Project[] = [
         text: 'A full-scale e-commerce platform built with Next.js and SCSS. This project focused on creating a high-performance shopping experience with server-side rendering and complex filtering systems.',
       },
       {
-        terminal: {
-          command: 'npm run build',
-          output: [
-            'Creating an optimized production build...',
-            'Compiled successfully.',
-            'File sizes after gzip:',
-            '  47.23 kB  build/static/js/main.js',
-            '  12.01 kB  build/static/css/main.css',
-            'Route (app)                              Size     First Load JS',
-            '┌ λ /                                    1.2 kB         85.2 kB',
-            '├ λ /products/[id]                       5.4 kB         92.4 kB',
-            '└ λ /cart                                3.1 kB         88.1 kB'
-          ],
-        }
+        image: 'https://s.tmimgcdn.com/scr/800x500/259700/ecommerce-shop-app-ui-kit_259744-original.jpg',
+        caption: 'Clean, professional design highlighting brand values and core offerings.',
       },
       {
         text: 'I implemented a dynamic product grid with advanced sorting functionality and a modular testimonial section to build user trust.',
@@ -67,7 +55,7 @@ export const PROJECTS: Project[] = [
         text: 'Designed and developed a fully responsive landing page for Trustco using pure HTML and CSS. The goal was to prove that a minimalist, high-quality interface could be achieved with foundational technologies.',
       },
       {
-        image: 'https://picsum.photos/seed/trustco/1200/800',
+        image: 'https://saaslandingpage.com/wp-content/uploads/2023/08/12-lumin-dark-landing-page-template@2x.png',
         caption: 'Clean, professional design highlighting brand values and core offerings.',
       }
     ]
